@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710919071424",
+    "project_id": "pacamarra-firebase-demo",
+    "storage_bucket": "pacamarra-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710919071424:android:e08deaf86283753d0aaf25",
+        "android_client_info": {
+          "package_name": "com.example.state_chang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2ig8tWRqHZ6wUhhsN3WvfkXLTjbhEso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710919071424:android:79e4eaa62a8d43a00aaf25",
+        "android_client_info": {
+          "package_name": "com.example.state_change_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2ig8tWRqHZ6wUhhsN3WvfkXLTjbhEso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
